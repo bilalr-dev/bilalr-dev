@@ -1,0 +1,89 @@
+{
+  "python.useEnvironmentsExtension": true,
+  "tabnine.experimentalAutoImports": true,
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 20,
+  "terminal.integrated.env.osx": {},
+  "console-ninja.featureSet": "Community",
+  "workbench.colorTheme": "Night Owl Theme Lion",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.scrollbar.horizontalScrollbarSize": 14,
+  "workbench.productIconTheme": "fluent-icons",
+  "cSpell.userWords": [
+    "Bilal",
+    "Rahaoui"
+  ],
+  "hediet.vscode-drawio.resizeImages": null,
+  "editor.suggestOnTriggerCharacters": true,
+  "markdown-preview-enhanced.liveUpdate": true,
+  "terminal.integrated.inheritEnv": false,
+  "terminal.integrated.fontSize": 15,
+  "workbench.editorAssociations": {
+    "*.bz2": "default"
+  },
+  "workbench.startupEditor": "none",
+  "chat.instructionsFilesLocations": {
+    ".github/instructions": true,
+    "/var/folders/p8/mnpq29c51ns1cx_9lwm13j6c0000gn/T/postman-collections-post-response.instructions.md": true,
+    "/var/folders/p8/mnpq29c51ns1cx_9lwm13j6c0000gn/T/postman-collections-pre-request.instructions.md": true,
+    "/var/folders/p8/mnpq29c51ns1cx_9lwm13j6c0000gn/T/postman-folder-post-response.instructions.md": true,
+    "/var/folders/p8/mnpq29c51ns1cx_9lwm13j6c0000gn/T/postman-folder-pre-request.instructions.md": true,
+    "/var/folders/p8/mnpq29c51ns1cx_9lwm13j6c0000gn/T/postman-http-request-post-response.instructions.md": true,
+    "/var/folders/p8/mnpq29c51ns1cx_9lwm13j6c0000gn/T/postman-http-request-pre-request.instructions.md": true
+  },
+  "php.validate.executablePath": "",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "window.newWindowProfile": "Default",
+  "editor.inlineSuggest.enabled": false,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
+  "files.autoSaveDelay": 1,
+  "workbench.settings.applyToAllProfiles": [
+    "files.autoSaveDelay"
+  ],
+  "codeium.enableCodeLens": false,
+  "docker.extension.enableComposeLanguageServer": false,
+  "git.autofetch": true,
+  "workbench.editor.empty.hint": "hidden",
+  "codesnap.backgroundColor": "#abb8c300",
+  "codesnap.boxShadow": "#00000000s",
+  "codesnap.transparentBackground": true,
+  "todohighlight.highlight": [
+    {
+      "text": "TODO",
+      "color": "yellow",
+      "backgroundColor": "transparent"
+    },
+    {
+      "text": "FIXME",
+      "color": "red",
+      "backgroundColor": "transparent"
+    },
+    {
+      "text": "NOTE",
+      "color": "blue",
+      "backgroundColor": "transparent"
+    },
+    {
+      "text": "BUG",
+      "color": "orange",
+      "backgroundColor": "transparent"
+    }
+  ],
+  "todohighlight.include": [
+    "**/*.js",
+    "**/*.ts",
+    "**/*.jsx",
+    "**/*.tsx",
+    "**/*.html",
+    "**/*.css",
+    "**/*.scss"
+  ]
+}
