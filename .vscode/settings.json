@@ -55,7 +55,7 @@
   "codesnap.backgroundColor": "#abb8c300",
   "codesnap.boxShadow": "#00000000s",
   "codesnap.transparentBackground": true,
-  "todohighlight.highlight": [
+  "todohighlight.keywords": [
     {
       "text": "TODO",
       "color": "yellow",
