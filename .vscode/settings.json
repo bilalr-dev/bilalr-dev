@@ -59,22 +59,22 @@
     {
       "text": "TODO",
       "color": "yellow",
-      "backgroundColor": "transparent"
+      "backgroundColor": "#fff9c4"
     },
     {
       "text": "FIXME",
       "color": "red",
-      "backgroundColor": "transparent"
+      "backgroundColor": "#ffcdd2"
     },
     {
       "text": "NOTE",
       "color": "blue",
-      "backgroundColor": "transparent"
+      "backgroundColor": "#bbdefb"
     },
     {
       "text": "BUG",
       "color": "orange",
-      "backgroundColor": "transparent"
+      "backgroundColor": "#ffe0b2"
     }
   ],
   "todohighlight.include": [
