@@ -1,8 +1,10 @@
 # 💫 About Me:
-Hi, I'm **Bilal Rahaoui**, an **MSc Software Engineering student at EPITA Paris** and a passionate **Full-Stack Developer** with a strong technical foundation and a keen intellectual curiosity. My background (electronics, teaching, entrepreneurship, IT), combined with multicultural experiences from studies in Morocco, Ukraine, and France, has cultivated exceptional adaptability and open-mindedness. I am proficient in six languages, which enhances my ability to thrive in diverse professional environments and to collaborate effectively with international teams.<br><br>My journey in tech includes entrepreneurial experience as the Founder & CEO of MobileHouse, and practical development roles where I contributed to the complete redesign of a client website at **COMARKE** and developed an innovative Android application at **ChoiceBin LLC**. I have expertise in web and mobile app development, graphic design, game development, and quality control testing.<br><br>I am committed to delivering high-quality, innovative software solutions and am actively seeking a **6-month end-of-study internship starting in February 2026** in France or internationally, eager to apply my skills in a forward-thinking company that values innovation, continuous learning, and collaboration.<br><br>Feel free to reach out if you want to collaborate on creative projects or need solutions to your business needs.
+Hi, I'm **Bilal Rahaoui**, a Software engineer completing my MSc at EPITA Paris, currently interning as a Full Stack Developer. My path wasn't a straight line: I started studying Computer Science, put my studies on hold to build and run my own electronics repair and security systems business (while also teaching electronics to hundreds of students), then resumed my education in Ukraine before finishing my Master's degree in France. Along the way I picked up a deep passion for the tech field, an intellectual curiosity and the belief that the best opportunities come from continuously learning.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bilalrahaoui94) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bil.rahaoui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalrahaoui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalrahaoui)
+[![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=about.me&logoColor=white)](https://bilal-tek.com)
+
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
@@ -28,6 +30,3 @@ Hi, I'm **Bilal Rahaoui**, an **MSc Software Engineering student at EPITA Paris*
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bilalr-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
