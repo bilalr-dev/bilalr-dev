@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Bilal Rahaoui**, a Software engineer completing my MSc at EPITA Paris, currently interning as a Full Stack Developer. My path wasn't a straight line: I started studying Computer Science, put my studies on hold to build and run my own electronics repair and security systems business (while also teaching electronics to hundreds of students), then resumed my education in Ukraine before finishing my Master's degree in France. Along the way I picked up a deep passion for the tech field, an intellectual curiosity and the belief that the best opportunities come from continuously learning.
+Hi, I'm **Bilal Rahaoui**, a Software Engineer. My path has been a bit unconventional: I studied in Morocco, Ukraine, and France. Today I mainly work on full-stack development (frontend, backend, and some embedded), with a strong interest in software quality, testing, and CI/CD.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalrahaoui)
