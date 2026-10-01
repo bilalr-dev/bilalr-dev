@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Bilal Rahaoui**, a Software Engineer. My path has been a bit unconventional: I studied in Morocco, Ukraine, and France. Today I mainly work on full-stack development (frontend, backend, and some embedded), with a strong interest in software quality, testing, and CI/CD.
+Hi, I'm **Bilal Rahaoui**, a Software Engineer. My path has been a bit unconventional: I studied in Morocco, Ukraine, and France. Today I mainly work on full-stack development (frontend, backend, and some embedded), with a strong interest in software quality and testing.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalrahaoui)
